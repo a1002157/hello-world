@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Soiree",
   "version": "1.0",
-  "description": "A hello world extenstion!",
+  "description": "Start of Soiree!",
   "icons": {
     "128": "images/icon128.png",
     "48": "images/icon48.png",
@@ -11,5 +11,6 @@
   "page_action":{
     "default_icon": "images/icon16.png",
     "default_popup": "popup.html"
+
   }
 }
