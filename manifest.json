@@ -11,6 +11,5 @@
   "page_action":{
     "default_icon": "images/icon16.png",
     "default_popup": "popup.html"
-
   }
 }
