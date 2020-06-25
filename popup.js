@@ -1,5 +1,5 @@
 $(function(){
     $('#name').keyup(function(){
-      $('#greet').text('WelcometoSoiree' +$('#name').val())
+        $('#greet').text('Welcome to Soiree ' + $('#name').val())
     })
-})
+});
