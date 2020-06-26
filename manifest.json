@@ -4,8 +4,8 @@
   "version": "1.0",
   "description": "Start of Soiree!",
   "icons": {
-    "128": "icon128.png",
-    "48": "icon48.png",
+    "128": "ironman2.png",
+    "48": "ironman1.png",
     "16": "ironman.png"
   },
   "browser_action":{
